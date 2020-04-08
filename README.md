@@ -3,10 +3,10 @@
 </h1>
 
 <h3 align="center">
-  Desafio: Conceitos do Node.js
+  Challenge: Node.js Concepts
 </h3>
 
-<blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
+<blockquote align="center">“Don't wait to plant, just be patient to reap”!</blockquote>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/GoStack-Desafio01-ConceitosNodeJs">
@@ -19,14 +19,14 @@
 </p>
 
 <h3 align="center">
-  :construction: Em Construção :construction:
+  :construction: In Construction :construction:
 </h3>
 
-## :rocket: Sobre o desafio
+## :rocket: About the challenge
 
-Primeiro Desafio do [GoStack 11](https://rocketseat.com.br/gostack) para treinar os conceitos do Node.js no Back-End!
+First challenge of [GoStack 11](https://rocketseat.com.br/gostack) to train Node.js concepts in the Back-End!
 
-Essa será uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
+This will be an application to store repositories in your portfolio, which will allow the creation, listing, update and removal of the repositories, and also allow the repositories to receive "likes".
 
 ## :hammer_and_wrench: Features
 
@@ -35,16 +35,16 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
 - *[Nodemon](https://nodemon.io/)*
 - *[Jest](https://jestjs.io/)*
 
-## :checkered_flag: Startando o projeto
+## :checkered_flag: Starting the project
 
-Clone o projeto: `git clone https://github.com/RBritoX/GoStack-Desafio01-ConceitosNodeJs`
+Clone the project: `git clone https://github.com/RBritoX/GoStack-Desafio01-ConceitosNodeJs`
 
-Agora rode os seguintes comandos:
+Now run the following commands:
 
-- `yarn` para baixar as dependências
-- `yarn dev` para iniciar a aplicação na porta `3333`
-- `yarn test` para rodar os testes
+- `yarn` to download the dependencies
+- `yarn dev` to start the application on port `3333`
+- `yarn test` to start the tests
 
 ---
 
-Feito por [Raphael Brito](https://www.linkedin.com/in/raphaellbrito/) (RBritoX)
+Made by [Raphael Brito](https://www.linkedin.com/in/raphaellbrito/) (RBritoX)
