@@ -17,7 +17,7 @@
   
   <img alt="GitHub code size in bytes" src="https://img.shields.io/codacy/grade/c762b783657c416a89983629b4f4b133">
 
-  <a href="https://rocketseat.com.br">
+  <a href="https://github.com/RBritoX/GoStack-Challenge01-NodeJsConcepts/blob/master/LICENSE">
     <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-Desafio01-ConceitosNodeJs">
   </a>
 </p>
@@ -50,10 +50,6 @@ Now run the following commands:
 - `yarn` to download the dependencies
 - `yarn dev` to start the application on port `3333`
 - `yarn test` to start the tests
-
-## :balance_scale: License
-
-This project is under the MIT license. See the [LICENSE](https://github.com/RBritoX/GoStack-Challenge01-NodeJsConcepts/blob/master/LICENSE) for more information.
 
 ---
 
