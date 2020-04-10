@@ -14,8 +14,6 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/GoStack-Desafio01-ConceitosNodeJs">
   
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/GoStack-Desafio01-ConceitosNodeJs">
-  
-  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c762b783657c416a89983629b4f4b133)](https://www.codacy.com/manual/RBritoX/GoStack-Challenge01-NodeJsConcepts?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RBritoX/GoStack-Challenge01-NodeJsConcepts&amp;utm_campaign=Badge_Grade)
 
   <a href="https://github.com/RBritoX/GoStack-Challenge01-NodeJsConcepts/blob/master/LICENSE">
     <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-Desafio01-ConceitosNodeJs">
