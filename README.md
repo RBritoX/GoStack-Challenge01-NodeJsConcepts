@@ -12,15 +12,13 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/GoStack-Desafio01-ConceitosNodeJs">
 
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/GoStack-Desafio01-ConceitosNodeJs">
+  
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/GoStack-Desafio01-ConceitosNodeJs">
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-Desafio01-ConceitosNodeJs">
   </a>
 </p>
-
-<h3 align="center">
-  :construction: In Construction :construction:
-</h3>
 
 ## :rocket: About the challenge
 
