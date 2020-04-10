@@ -9,14 +9,16 @@
 <blockquote align="center">“Don't wait to plant, just be patient to reap”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/GoStack-Desafio01-ConceitosNodeJs">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/GoStack-Challenge01-NodeJsConcepts">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/GoStack-Desafio01-ConceitosNodeJs">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/GoStack-Challenge01-NodeJsConcepts">
   
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/GoStack-Desafio01-ConceitosNodeJs">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/GoStack-Challenge01-NodeJsConcepts">
+  
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/codacy/grade/c762b783657c416a89983629b4f4b133">
 
   <a href="https://github.com/RBritoX/GoStack-Challenge01-NodeJsConcepts/blob/master/LICENSE">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-Desafio01-ConceitosNodeJs">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-Challenge01-NodeJsConcepts">
   </a>
 </p>
 
