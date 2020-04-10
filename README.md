@@ -22,6 +22,8 @@
 
 ## :rocket: About the challenge
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2726fabb35804715b375cfcdd5fa2fea)](https://app.codacy.com/manual/RBritoX/GoStack-Challenge01-NodeJsConcepts?utm_source=github.com&utm_medium=referral&utm_content=RBritoX/GoStack-Challenge01-NodeJsConcepts&utm_campaign=Badge_Grade_Dashboard)
+
 First challenge of [GoStack 11](https://rocketseat.com.br/gostack) to train Node.js concepts in the Back-End!
 
 This will be an application to store repositories in your portfolio, which will allow the creation, listing, update and removal of the repositories, and also allow the repositories to receive "likes".
