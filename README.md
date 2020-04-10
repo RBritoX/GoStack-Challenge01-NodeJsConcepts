@@ -22,6 +22,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="#rocket-about-the-challenge">The Challenge</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer_and_wrench-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#checkered_flag-starting-the-project">Starting</a>
+</p>
+
 ## :rocket: About the challenge
 
 First challenge of [GoStack 11](https://rocketseat.com.br/gostack) to train Node.js concepts in the Back-End!
@@ -44,6 +50,10 @@ Now run the following commands:
 - `yarn` to download the dependencies
 - `yarn dev` to start the application on port `3333`
 - `yarn test` to start the tests
+
+## :balance_scale: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/RBritoX/GoStack-Challenge01-NodeJsConcepts/blob/master/LICENSE) for more information.
 
 ---
 
