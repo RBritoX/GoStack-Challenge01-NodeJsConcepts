@@ -15,7 +15,7 @@
   
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/GoStack-Challenge01-NodeJsConcepts">
   
-  <img alt="language version" src="https://img.shields.io/badge/Node.js-v12.16.1-blue?style=flat&logo=node.js">
+  <img alt="Node version" src="https://img.shields.io/badge/Node.js-v12.16.1-blue?style=flat&logo=node.js">
   
   <img alt="GitHub code size in bytes" src="https://img.shields.io/codacy/grade/c762b783657c416a89983629b4f4b133">
 
